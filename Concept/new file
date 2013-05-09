@@ -1,0 +1,15 @@
+///Event Code Sample
+///
+///public struct EventBranch
+///{
+///eventid = {<event id int>}
+///eventdt = {<event mean time to happen int (in days)>}
+///eventname = {"event name string"}
+///eventdesc = {"event text box"}
+///eventbutton1 = {"event text box button1"}
+///eventeffects1 = {_eventEffect11, eventEffect12}
+///eventbutton2 = {"event text box button2"}
+///eventeffects1 = {_eventEffect21, eventEffect22}
+///eventboolcheck = {_boolEventPossible}
+///eventvarcheck = {_varEvent}
+///}
